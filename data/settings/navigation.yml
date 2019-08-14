@@ -1,7 +1,9 @@
 nav_items:
-  - label: Home
-    path: /
-  - label: Products
-    path: /products/
-  - label: News
-    path: /news
+  - label: About
+    path: /about/
+  - label: Events
+    path: /events/
+  - label: Book Now
+    path: /booknow
+  - label: Connect
+    path: /connect/
