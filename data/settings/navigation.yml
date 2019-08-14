@@ -3,5 +3,5 @@ nav_items:
     path: /
   - label: Products
     path: /products/
-  - label: 'Utah: Sept 7-14'
+  - label: News
     path: /news
