@@ -1,12 +1,12 @@
 ---
 title: About
 date: 2019-08-16T07:47:37.983Z
-description: about
+description: >-
+  Aloha! It's me Becca. I am so excited to share with you wisdom I have learned
+  along my health journey.
 image: /images/uploads/becca-lifestyle-101.jpg
 ---
-Aloha! I am Becca. I am passionate about many things from healing through the feet to chakras and all things health. I enjoy watching others thrive living in their best life and wish the world for you. Yes, you who is reading this now. 
-
-
+Aloha! It's me Becca. I am so excited to share with you wisdom I have learned along my health journey. I am passionate about many things from healing through the feet to chakras and all things health. I enjoy watching others thrive living in their best life and wish the world for you. Yes, you who is reading this now. 
 
 Certifications I have received to enhance your experience: 
 
