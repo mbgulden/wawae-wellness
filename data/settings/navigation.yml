@@ -4,6 +4,6 @@ nav_items:
   - label: Events
     path: /events/
   - label: Book Now
-    path: /booknow
+    path: /booknow/
   - label: Connect
     path: /connect/
