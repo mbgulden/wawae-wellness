@@ -6,6 +6,8 @@ image: /images/uploads/img_0475.jpg
 ---
 Homebase : Oahu
 
+Foot Zone Appointments available:
+
 September 10-14, Salt Lake City, UT
 
 September 17-19, Hilo, Big Island of Hawaii
