@@ -6,6 +6,7 @@
   background-size: cover;
   background-position: center right;
   background-color: $background-secondary-color;
+  color: rgba(255, 255, 255, 1);
   .caption {
     @extend %container;
   }
