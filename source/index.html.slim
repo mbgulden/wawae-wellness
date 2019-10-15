@@ -1,5 +1,5 @@
 ---
-title: Kaldi - Middleman + Netlify CMS Example
+title: WaWae Wellness | Holisting Healing Through the Feet
 ---
 
 section.hero style=background_image(image_path(data.pages.home.hero.image))
@@ -16,7 +16,7 @@ section.homepage-story
 section.homepage-products.products
   .container
     h2
-      | Products
+      | Services
     .row
       //product is structured: ['filename', 'data']
       //sort by newest product
@@ -28,8 +28,8 @@ section.homepage-products.products
 section.homepage-news.news
   .container
     h2
-      | News
+      | Learn More
     .news-items
       //get the first two most recent posts
-      - blog.articles.first(2).each do | article |
+      - blog.articles.first(3).each do | article |
         = partial 'partials/news/news_item', locals: {article: article}
