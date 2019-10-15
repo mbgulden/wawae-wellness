@@ -1,6 +1,6 @@
 ---
 title: About
-date: 2019-08-16T07:47:37.983Z
+date: 2019-10-15T07:47:37.983Z
 description: >-
   Aloha! It's me Becca. I am so excited to share with you wisdom I have learned
   along my health journey.
