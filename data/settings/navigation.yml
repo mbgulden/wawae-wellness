@@ -1,8 +1,8 @@
 nav_items:
   - label: About
-    path: /about/
+    path: /news/2019/about/
   - label: Events
-    path: /events/
+    path: /news/2019/events/
   - label: Book Now
     path: /booknow/
   - label: Connect
