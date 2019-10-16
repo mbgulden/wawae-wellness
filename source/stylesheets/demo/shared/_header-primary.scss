@@ -6,7 +6,8 @@
   z-index: 999;
 
   .logo {
-    width: 260px;
+    width: 100%;
+    max-width: 371px;
     height: 80px;
     a {
       display: block;
