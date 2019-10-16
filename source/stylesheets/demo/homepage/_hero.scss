@@ -18,6 +18,7 @@
     padding-top: 20%;
     width: unset;
     max-width: 590px;
+    text-shadow: 3px 5px 10px rgba(0,0,0,0.5);
 
     @media screen and (max-width: $screen-md-max){
       padding-top: 15%;
