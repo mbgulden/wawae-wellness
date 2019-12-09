@@ -8,6 +8,6 @@ Homebase : Oahu
 
 Foot Zone Appointments available:
 
-September 10-14, Salt Lake City, UT
+December 9 - North Shore, Oahu 6pm 
 
-September 17-19, Hilo, Big Island of Hawaii
+December 11 - Kailua, Oahu 6:30pm
